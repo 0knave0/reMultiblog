@@ -68,22 +68,22 @@
 							</div>
 
 							<!-- 9. hobby
-      10 : 수영
-      20 : 음악감상
-      30 : 공부
+      10 : IT
+      20 : Game
+      30 : Business
        -->
 
 							<div class="form-group">
-								<label for="inputHobbies" class="col-sm-2 control-label">Hobby</label>
+								<label for="inputHobbies" class="col-sm-2 control-label">Interest</label>
 								<div class="col-sm-9">
 									<div class="btn-group btn-group-toggle" data-toggle="buttons"
 										id="inputHobbies">
 										<label class="btn btn-secondary active"> <input
-											type="checkbox" name="hobbies1" value="10"> 수영
+											type="checkbox" name="hobbies1" value="10"> IT
 										</label> <label class="btn btn-secondary"> <input
-											type="checkBox" name="hobbies2" value="20"> 음악감상
+											type="checkBox" name="hobbies2" value="20"> Game
 										</label> <label class="btn btn-secondary"> <input
-											type="checkBox" name="hobbies3" value="30"> 공부
+											type="checkBox" name="hobbies3" value="30"> Business
 										</label>
 									</div>
 									<p class="col-sm-1"></p>
