@@ -1,4 +1,4 @@
-package com.Multiblog.app.db;
+package com.Multiblog.app.dao;
 
 import java.util.ArrayList;
 import java.util.HashMap;
